@@ -1,0 +1,26 @@
+.menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.imges {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: baseline;
+}
+
+.adresses {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style-type: none;
+}
